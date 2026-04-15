@@ -1,10 +1,5 @@
 # 🗂️ Django CRUD App with Authentication
 
-<h1>
-  <span class="prefix"></span>
-  <span class="headline">Django CRUD App with Authentication (Library System)</span>
-</h1>
-
 ## About
 
 In this module, students build a full-stack web app using **Django**.
