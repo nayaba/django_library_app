@@ -167,6 +167,6 @@ library_project/
   <a href="../README.md">⬅ Previous</a>
 
   <!-- Next Lesson -->
-  <a href="../creating-data-structures/README.md">Next: Creating Data Structures ➡</a>
+  <a href="../concepts/README.md">Next: Concepts ➡</a>
 
 </div>
