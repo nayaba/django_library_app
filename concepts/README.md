@@ -39,3 +39,14 @@ One employee can create many reports.
 
 > 💡 Django handles many things for you (forms, login, security)
 
+---
+
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Previous Lesson -->
+  <a href="../setup/README.md">⬅ Previous</a>
+
+  <!-- Next Lesson -->
+  <a href="../creating-data-structures/README.md">Next: Creating Data Structures ➡</a>
+
+</div>
