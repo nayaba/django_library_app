@@ -153,3 +153,15 @@ author.books.all()
 * Always use `related_name` for readability
 * Think about relationships before building models
 * Use `CASCADE` carefully (it deletes data!)
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Previous Lesson -->
+  <a href="../models-relationships/README.md">⬅ Previous: Models - Relationships</a>
+
+  <!-- Next Lesson -->
+  <a href="../admin-panel/README.md">Next: Admin Panel ➡</a>
+
+</div>
