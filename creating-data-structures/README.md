@@ -127,3 +127,14 @@ In a company system:
 * Use clear field names (`first_name`, not `fn`)
 * Add `__str__()` early
 
+---
+
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Previous Lesson -->
+  <a href="../creating-data-structures/README.md">⬅ Previous: Creating Data Structures</a>
+
+  <!-- Next Lesson -->
+  <a href="../models-relationships/README.md">Next: Models - Relationships ➡</a>
+
+</div>
