@@ -16,8 +16,8 @@ This reflects real-world systems like internal dashboards in companies (e.g., ma
 | [Concepts](./concepts/README.md)                                      | MVC pattern, request/response cycle     |
 | [Models: Creating Data Structures](./microlesson-01/README.md)        | Define models, fields, database tables  |
 | [Models: Relationships](./microlesson-02/README.md)                   | ForeignKey, one-to-many relationships   |
-| [Admin Panel](./microlesson-03/README.md)                             | Register models, view data in admin     |
-| [Intro to Views (FBV)](./microlesson-04/README.md)                    | Create basic function-based views       |
+| [Admin Panel](./admin-panel/README.md)                                | Register models, view data in admin     |
+| [Intro to Views (FBV)](./intro-to-views/README.md)                    | Create basic function-based views       |
 | [Rendering Templates](./rendering-templates/README.md)                | Pass data to HTML, use `render()`       |
 | [Template Basics](./template-basics/README.md)                        | Loops, conditionals, displaying data    |
 | [URLs & Routing](./urls-and-routing/README.md)                        | Connect URLs to views, dynamic params   |
