@@ -161,4 +161,14 @@ library_project/
 
 ---
 
+<hr>
 
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Previous Lesson -->
+  <a href="../README.md">⬅ Previous</a>
+
+  <!-- Next Lesson -->
+  <a href="../creating-data-structures/README.md">Next: Creating Data Structures ➡</a>
+
+</div>
