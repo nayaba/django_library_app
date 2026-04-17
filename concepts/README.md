@@ -1,9 +1,4 @@
-# 📚 CONCEPTS
-
-<h1>
-  <span class="headline">Django CRUD App</span>
-  <span class="subhead">Concepts</span>
-</h1>
+# CONCEPTS
 
 **Learning objective:** Understand how a Django app works from database to UI.
 
