@@ -161,8 +161,6 @@ library_project/
 
 ---
 
-<hr>
-
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Previous Lesson -->
